@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{18FA086C-B194-4488-A8DF-88B67B2A7422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlMarkupBuilder", "XmlMarkupBuilder\XmlMarkupBuilder.csproj", "{30E5AB5F-5E6E-4893-8F1F-580E5B0C18A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlBuilderTests", "XmlBuilderTests\XmlBuilderTests.csproj", "{A3017B54-9B5C-4FEA-A915-84EE803B850E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FA086C-B194-4488-A8DF-88B67B2A7422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FA086C-B194-4488-A8DF-88B67B2A7422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FA086C-B194-4488-A8DF-88B67B2A7422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FA086C-B194-4488-A8DF-88B67B2A7422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E5AB5F-5E6E-4893-8F1F-580E5B0C18A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E5AB5F-5E6E-4893-8F1F-580E5B0C18A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E5AB5F-5E6E-4893-8F1F-580E5B0C18A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E5AB5F-5E6E-4893-8F1F-580E5B0C18A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3017B54-9B5C-4FEA-A915-84EE803B850E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3017B54-9B5C-4FEA-A915-84EE803B850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3017B54-9B5C-4FEA-A915-84EE803B850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3017B54-9B5C-4FEA-A915-84EE803B850E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

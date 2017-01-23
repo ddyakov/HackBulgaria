@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BubbleSort", "BubbleSort\01.BubbleSort.csproj", "{C132E154-F181-4019-92C9-943D746DECA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SelectionSort", "SelectionSort\02.SelectionSort.csproj", "{3CFC83DF-7EC9-4994-ABEF-7AECF158530E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ImplementingIComparer", "ImplementingIComparer\03.ImplementingIComparer.csproj", "{CC60F686-2FBD-4D8E-A294-423D4E5C1C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{8C8F5753-1907-4065-B222-2EB3775BF5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C132E154-F181-4019-92C9-943D746DECA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C132E154-F181-4019-92C9-943D746DECA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C132E154-F181-4019-92C9-943D746DECA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C132E154-F181-4019-92C9-943D746DECA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFC83DF-7EC9-4994-ABEF-7AECF158530E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFC83DF-7EC9-4994-ABEF-7AECF158530E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFC83DF-7EC9-4994-ABEF-7AECF158530E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFC83DF-7EC9-4994-ABEF-7AECF158530E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC60F686-2FBD-4D8E-A294-423D4E5C1C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC60F686-2FBD-4D8E-A294-423D4E5C1C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC60F686-2FBD-4D8E-A294-423D4E5C1C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC60F686-2FBD-4D8E-A294-423D4E5C1C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8F5753-1907-4065-B222-2EB3775BF5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8F5753-1907-4065-B222-2EB3775BF5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8F5753-1907-4065-B222-2EB3775BF5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8F5753-1907-4065-B222-2EB3775BF5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

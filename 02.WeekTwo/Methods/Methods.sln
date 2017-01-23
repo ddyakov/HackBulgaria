@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseAString", "ReverseAString\01.ReverseAString.csproj", "{83E940CA-EC91-47BC-8B1D-30A241D55A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.InflateARectangle", "InflateARectangle\02.InflateARectangle.csproj", "{FE23470F-175B-4D6B-95BA-81F048B0D83B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SearchInAList", "SearchInAList\03.SearchInAList.csproj", "{12A766D2-CA66-4C01-B509-79911B13BCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.JoiningStrings", "JoiningStrings\04.JoiningStrings.csproj", "{3028AE4A-2EE6-407E-8EFD-5522810637AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FactorialGenerator", "FactorialGenerator\05.FactorialGenerator.csproj", "{96D7E1AF-D858-43E0-9D13-7E1783140838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.DirectoryTraversal", "DirectoryTraversal\06.DirectoryTraversal.csproj", "{C39845D2-4E47-4419-ABDB-ECB25AAE62D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E940CA-EC91-47BC-8B1D-30A241D55A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E940CA-EC91-47BC-8B1D-30A241D55A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E940CA-EC91-47BC-8B1D-30A241D55A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E940CA-EC91-47BC-8B1D-30A241D55A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE23470F-175B-4D6B-95BA-81F048B0D83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE23470F-175B-4D6B-95BA-81F048B0D83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE23470F-175B-4D6B-95BA-81F048B0D83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE23470F-175B-4D6B-95BA-81F048B0D83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A766D2-CA66-4C01-B509-79911B13BCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A766D2-CA66-4C01-B509-79911B13BCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A766D2-CA66-4C01-B509-79911B13BCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A766D2-CA66-4C01-B509-79911B13BCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3028AE4A-2EE6-407E-8EFD-5522810637AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3028AE4A-2EE6-407E-8EFD-5522810637AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3028AE4A-2EE6-407E-8EFD-5522810637AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3028AE4A-2EE6-407E-8EFD-5522810637AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D7E1AF-D858-43E0-9D13-7E1783140838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D7E1AF-D858-43E0-9D13-7E1783140838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D7E1AF-D858-43E0-9D13-7E1783140838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D7E1AF-D858-43E0-9D13-7E1783140838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C39845D2-4E47-4419-ABDB-ECB25AAE62D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39845D2-4E47-4419-ABDB-ECB25AAE62D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39845D2-4E47-4419-ABDB-ECB25AAE62D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39845D2-4E47-4419-ABDB-ECB25AAE62D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
